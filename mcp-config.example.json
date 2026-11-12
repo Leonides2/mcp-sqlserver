@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "sqlserver": {
+      "command": "C:\\Users\\jzunigah\\Proyectos\\Python\\mcp-sqlserver\\.venv\\Scripts\\python.exe",
+      "args": [
+        "C:\\Users\\jzunigah\\Proyectos\\Python\\mcp-sqlserver\\src\\mcp_server.py"
+      ]
+    }
+  }
+}
